@@ -28,6 +28,7 @@ function Home() {
         <div className="lado2">
           {/* <VariaveisNumber /> */}
         </div>
+        <a href="/singup">Clique</a>
       </div>
       
     </div>
