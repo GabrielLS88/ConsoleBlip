@@ -1,5 +1,5 @@
 import SingIn from "../src/Home/Home.jsx";
-import SingUp from "./Page/SingUp/SingUp";
+import SingUp from "../src/Home copy/Home.jsx";
 import Home from "./Page/Home/Home";
 import Agendamento from "./Page/Agendamento/Agendamento.jsx"
 import Historico from "./Page/Historico/Historico.jsx"
